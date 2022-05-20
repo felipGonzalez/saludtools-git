@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 cuarto commit
-=======
-segundo commit
->>>>>>> parent of 13a5926 (4 commit)
-=======
-segundo commit
->>>>>>> parent of 13a5926 (4 commit)
